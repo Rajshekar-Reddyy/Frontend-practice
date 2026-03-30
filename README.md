@@ -1,2 +1,28 @@
 # Frontend-practice
 Frontend practice repository with HTML, CSS, and JavaScript projects to improve web development skills.
+
+This repository contains my daily frontend practice using HTML, CSS, and JavaScript.  
+The goal is to improve my web development skills by building small projects and experimenting with UI designs.
+
+📌 What I’m Practicing
+- HTML5 structure and semantic tags
+- CSS (Flexbox, Grid, Responsive Design)
+- JavaScript 
+
+📂 Projects Included
+- Table creation
+- Landing Pages
+- Forms and Validation
+- Responsive Layouts
+- Mini JavaScript Projects (To-Do App, Calculator, etc.)
+
+🎯 Goal
+To become a strong frontend developer and build real-world projects that can be used in production.
+
+🛠️ Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+📈 Progress
+I update this repository regularly with new projects and improvements.
