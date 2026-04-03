@@ -1,0 +1,78 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+.container{
+    .navbar{
+        margin-top: 10px;
+        border-bottom: 1px solid black;
+        padding: 10px;
+        a{
+
+            font-size: 22px;
+            text-decoration: none;
+            margin-right: 20px;
+            color: black;
+        }
+        #home{margin-left: 600px;}
+        #in{
+            margin-left: 400px;
+        }
+    }
+    .title{
+        font-size: 60px;
+        margin-top: 30px;
+        margin-left: 570px;
+        color: darkblue;
+    }
+    .subnavbar{
+        margin-left: 525px;
+        border-bottom: 1px solid black;
+        margin-top: 30px;
+        width: fit-content;
+        
+        a{
+            color: black;
+            text-decoration: none;
+            font-size: 20px;
+            margin-right: 25px;
+            
+        }
+    }
+
+    .cards{
+        .card{
+            width: 20%;
+            /* border: 1px solid black; */
+            padding: 10px;
+            margin-left: 600px;
+            margin-top: 30px;
+            img{
+                width: 300px;
+                border-radius: 10px;
+        
+
+            }
+            h1{
+                font-size: 20px;
+                margin-top: 10px;
+            }
+            p{
+                font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+                margin-top: 10px;
+                margin-bottom: 10px;
+            }
+            a{
+                margin-bottom: 10px;
+                text-decoration: none;
+                
+            }
+            .p{
+                border-top: 3px solid red;
+                margin-top: 10px;
+                /* border-width: 100%; */
+            }
+        }
+    }
+}
