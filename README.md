@@ -26,3 +26,6 @@ To become a strong frontend developer and build real-world projects that can be 
 
 📈 Progress
 I update this repository regularly with new projects and improvements.
+
+<img width="1891" height="1013" alt="Screenshot 2026-04-08 220217" src="https://github.com/user-attachments/assets/5a618423-8add-4d70-981a-fa2ce23447c8" />
+
